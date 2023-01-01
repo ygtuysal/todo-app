@@ -1,8 +1,8 @@
-Created with React.
-Used Redux for state management
-Used Material-UIfor Reactor custom components. 
-Project supports GET/POST actions. 
-Support fully responsive design.
+Created with React,
+Used Redux for state management,
+Used Material-UI for Reactor custom components,
+Project supports GET/POST actions,
+Support fully responsive design,
 Used Fake Backend
 
 # Getting Started with Create React App
